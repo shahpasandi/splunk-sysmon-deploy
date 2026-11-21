@@ -1,0 +1,11 @@
+# Production configs — never commit
+*.conf
+!examples/*.example
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS junk
+Thumbs.db
+desktop.ini
